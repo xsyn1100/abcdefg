@@ -1,4 +1,4 @@
-<h1 align= center><b>SKYZO MUSIC BOT</b></h1>
+<h1 align= center><b>SYN MUSIC BOT</b></h1>
 <h3 align = center> Telegram Music Bot And Stream Feature New Version </h3>
 
 <p align="center"><img src="https://telegra.ph/file/3b041f0e23708b4953667.jpg" alt="Coder GIF" width="500" alt="ridho17-ind Github" width="1000px" /></p>
